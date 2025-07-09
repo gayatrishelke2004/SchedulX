@@ -1,0 +1,4 @@
+*.exe
+*.csv
+__pycache__/
+*.pyc
